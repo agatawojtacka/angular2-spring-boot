@@ -1,0 +1,10 @@
+= angular2-spring-boot
+
+Welcome web application based on angular 2 and spring-boot
+
+To run fronted app for development:
+====
+cd src/main/frontend && npm start
+====
+
+Then develop having look at http://localhost:4200
